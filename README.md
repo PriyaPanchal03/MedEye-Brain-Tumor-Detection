@@ -70,7 +70,7 @@ API_KEY=your_api_key_here
 ### 4. Run the application
 
 ```
-streamlit run main.py
+python -m streamlit run main.py 
 ```
 
 ---
