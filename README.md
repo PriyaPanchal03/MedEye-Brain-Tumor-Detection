@@ -115,6 +115,7 @@ streamlit run main.py
 
 ## 👩‍💻 Author
 
-**Priya Panchal and Yashika Mehra **
+**Priya Panchal and Yashika Mehra**
+
 B.E. ICT Student
 
