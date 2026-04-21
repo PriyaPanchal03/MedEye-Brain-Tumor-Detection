@@ -1,0 +1,28 @@
+# Secrets
+.env
+
+# Models (large files)
+*.h5
+models/
+
+# Dataset
+DataSet/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+
+# Build files
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
