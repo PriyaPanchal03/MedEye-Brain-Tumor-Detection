@@ -81,8 +81,6 @@ python -m streamlit run main.py
 
   * MobileNetV2
   * ResNet50
-  * InceptionV3
-  * Xception
 * Best performing model selected based on validation accuracy
 * Grad-CAM used to highlight tumor regions in MRI images
 
